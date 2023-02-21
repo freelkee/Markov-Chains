@@ -1,1 +1,1 @@
-Изучение способов нахождения математического ожидания стационарного распределения марковской цепи со счетным числом состояний. Освоение методов моделирования марковских цепей.
+The study of ways to find the mathematical expectation of a stationary distribution of a Markov chain with a countable number of states. Mastering the methods of modeling Markov chains.
